@@ -1,0 +1,26 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore log files
+*.log
+
+# Ignore npm debug log
+npm-debug.log*
+
+# Ignore macOS directory attributes
+.DS_Store
+
+# Ignore build output
+/build
+
+# Ignore yarn integrity file
+.yarn-integrity
